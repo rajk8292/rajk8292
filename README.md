@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Raj Kumar (aka @rajk8292)
+# 👋 Hey there! I'm Raj Kumar ( @rajk8292)
 
 Welcome to my GitHub! I’m a passionate developer who loves building meaningful software that solves real-world problems. Whether it's backend logic or UI magic, I enjoy the full stack journey!
 
