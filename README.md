@@ -67,8 +67,6 @@ If you have an idea — feel free to reach out. I love turning ideas into realit
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_  
-> — Let’s write code that speaks for itself 💻✨
 
 Thanks for stopping by! 🙏
 
